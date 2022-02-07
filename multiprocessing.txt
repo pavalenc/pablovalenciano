@@ -1,0 +1,27 @@
+Script started on 2022-02-07 16:28:23+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;pavalenc@pavalenc-VirtualBox: ~[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~[00m$ cd DEsc[K[K[Kescargas
+]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ pythion3[K[K[K[Kon3 p[K0_procesos.py
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 3
+hola 2
+hola 4
+hola 3
+hola 4
+]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git add 0_procesos.py
+]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git commit -m "ej0"
+En la rama master
+Cambios no rastreados para el commit:
+  (usa "git add/rm <archivo>..." para actualizar a lo que se le va a hacer commit)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	[31mborrado:        multiprocessing.txt[m
+	[31mborrado:        multiprocessing01.txt[m
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ exit
+
+Script done on 2022-02-07 16:29:32+01:00 [COMMAND_EXIT_CODE="1"]
