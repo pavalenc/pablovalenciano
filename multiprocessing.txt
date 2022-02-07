@@ -19,11 +19,62 @@ hola 4
  create mode 100644 0_proceso.py
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
 Enumerando objetos: 16, listo.
-Contando objetos:   6% (1/16)Contando objetos:  12% (2/16)Contando objetos:  18% (3/16)Contando objetos:  25% (4/16)Contando objetos:  31% (5/16)Contando objetos:  37% (6/16)Contando objetos:  43% (7/16)Contando objetos:  50% (8/16)Contando objetos:  56% (9/16)Contando objetos:  62% (10/16)Contando objetos:  68% (11/16)Contando objetos:  75% (12/16)Contando objetos:  81% (13/16)Contando objetos:  87% (14/16)Contando objetos:  93% (15/16)Contando objetos: 100% (16/16)Contando objetos: 100% (16/16), listo.
-Comprimiendo objetos:   7% (1/14)Comprimiendo objetos:  14% (2/14)Comprimiendo objetos:  21% (3/14)Comprimiendo objetos:  28% (4/14)Comprimiendo objetos:  35% (5/14)Comprimiendo objetos:  42% (6/14)Comprimiendo objetos:  50% (7/14)Comprimiendo objetos:  57% (8/14)Comprimiendo objetos:  64% (9/14)Comprimiendo objetos:  71% (10/14)Comprimiendo objetos:  78% (11/14)Comprimiendo objetos:  85% (12/14)Comprimiendo objetos:  92% (13/14)Comprimiendo objetos: 100% (14/14)Comprimiendo objetos: 100% (14/14), listo.
-Escribiendo objetos:   6% (1/16)Escribiendo objetos:  12% (2/16)Escribiendo objetos:  18% (3/16)Escribiendo objetos:  25% (4/16)Escribiendo objetos:  31% (5/16)Escribiendo objetos:  37% (6/16)Escribiendo objetos:  56% (9/16)Escribiendo objetos:  62% (10/16)Escribiendo objetos:  68% (11/16)Escribiendo objetos:  75% (12/16)Escribiendo objetos:  81% (13/16)Escribiendo objetos:  87% (14/16)Escribiendo objetos:  93% (15/16)Escribiendo objetos: 100% (16/16)Escribiendo objetos: 100% (16/16), 8.72 KiB | 2.18 MiB/s, listo.
+Contando objetos:   6% (1/16)
+Contando objetos:  12% (2/16)
+Contando objetos:  18% (3/16)
+Contando objetos:  25% (4/16)
+Contando objetos:  31% (5/16)
+Contando objetos:  37% (6/16)
+Contando objetos:  43% (7/16)
+Contando objetos:  50% (8/16)
+Contando objetos:  56% (9/16)
+Contando objetos:  62% (10/16)
+Contando objetos:  68% (11/16)
+Contando objetos:  75% (12/16)
+Contando objetos:  81% (13/16)
+Contando objetos:  87% (14/16)
+Contando objetos:  93% (15/16)
+Contando objetos: 100% (16/16)
+Contando objetos: 100% (16/16), listo.
+Comprimiendo objetos:   7% (1/14)
+Comprimiendo objetos:  14% (2/14)
+Comprimiendo objetos:  21% (3/14)
+Comprimiendo objetos:  28% (4/14)
+Comprimiendo objetos:  35% (5/14)
+Comprimiendo objetos:  42% (6/14)
+Comprimiendo objetos:  50% (7/14)
+Comprimiendo objetos:  57% (8/14)
+Comprimiendo objetos:  64% (9/14)
+Comprimiendo objetos:  71% (10/14)
+Comprimiendo objetos:  78% (11/14)
+Comprimiendo objetos:  85% (12/14)
+Comprimiendo objetos:  92% (13/14)
+Comprimiendo objetos: 100% (14/14)
+Comprimiendo objetos: 100% (14/14), listo.
+Escribiendo objetos:   6% (1/16)
+Escribiendo objetos:  12% (2/16)
+Escribiendo objetos:  18% (3/16)
+Escribiendo objetos:  25% (4/16)
+Escribiendo objetos:  31% (5/16)
+Escribiendo objetos:  37% (6/16)
+Escribiendo objetos:  56% (9/16)
+Escribiendo objetos:  62% (10/16)
+Escribiendo objetos:  68% (11/16)
+Escribiendo objetos:  75% (12/16)
+Escribiendo objetos:  81% (13/16)
+Escribiendo objetos:  87% (14/16)
+Escribiendo objetos:  93% (15/16)
+Escribiendo objetos: 100% (16/16)
+Escribiendo objetos: 100% (16/16), 8.72 KiB | 2.18 MiB/s, listo.
 Total 16 (delta 6), reusado 0 (delta 0)
-remote: Resolving deltas:   0% (0/6)[Kremote: Resolving deltas:  16% (1/6)[Kremote: Resolving deltas:  33% (2/6)[Kremote: Resolving deltas:  50% (3/6)[Kremote: Resolving deltas:  66% (4/6)[Kremote: Resolving deltas:  83% (5/6)[Kremote: Resolving deltas: 100% (6/6)[Kremote: Resolving deltas: 100% (6/6), done.[K
+remote: Resolving deltas:   0% (0/6)[K
+remote: Resolving deltas:  16% (1/6)[K
+remote: Resolving deltas:  33% (2/6)[K
+remote: Resolving deltas:  50% (3/6)[K
+remote: Resolving deltas:  66% (4/6)[K
+remote: Resolving deltas:  83% (5/6)[K
+remote: Resolving deltas: 100% (6/6)[K
+remote: Resolving deltas: 100% (6/6), done.[K
 remote: 
 remote: Create a pull request for 'master' on GitHub by visiting:[K
 remote:      https://github.com/pavalenc/pablovalenciano/pull/new/master[K
@@ -70,11 +121,20 @@ hola soy ana 6 vuelta 2
  create mode 100644 1_proceso.py
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
 Enumerando objetos: 3, listo.
-Contando objetos:  33% (1/3)Contando objetos:  66% (2/3)Contando objetos: 100% (3/3)Contando objetos: 100% (3/3), listo.
-Comprimiendo objetos:  50% (1/2)Comprimiendo objetos: 100% (2/2)Comprimiendo objetos: 100% (2/2), listo.
-Escribiendo objetos:  50% (1/2)Escribiendo objetos: 100% (2/2)Escribiendo objetos: 100% (2/2), 237 bytes | 237.00 KiB/s, listo.
+Contando objetos:  33% (1/3)
+Contando objetos:  66% (2/3)
+Contando objetos: 100% (3/3)
+Contando objetos: 100% (3/3), listo.
+Comprimiendo objetos:  50% (1/2)
+Comprimiendo objetos: 100% (2/2)
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos:  50% (1/2)
+Escribiendo objetos: 100% (2/2)
+Escribiendo objetos: 100% (2/2), 237 bytes | 237.00 KiB/s, listo.
 Total 2 (delta 1), reusado 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
 To github.com:pavalenc/pablovalenciano.git
    e7b97fb..945aca9  master -> master
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ python3 2_proceso.py
@@ -102,11 +162,20 @@ hola soy ana_1, 4726, True, vuelta 4
  create mode 100644 2_proceso.py
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
 Enumerando objetos: 3, listo.
-Contando objetos:  33% (1/3)Contando objetos:  66% (2/3)Contando objetos: 100% (3/3)Contando objetos: 100% (3/3), listo.
-Comprimiendo objetos:  50% (1/2)Comprimiendo objetos: 100% (2/2)Comprimiendo objetos: 100% (2/2), listo.
-Escribiendo objetos:  50% (1/2)Escribiendo objetos: 100% (2/2)Escribiendo objetos: 100% (2/2), 238 bytes | 238.00 KiB/s, listo.
+Contando objetos:  33% (1/3)
+Contando objetos:  66% (2/3)
+Contando objetos: 100% (3/3)
+Contando objetos: 100% (3/3), listo.
+Comprimiendo objetos:  50% (1/2)
+Comprimiendo objetos: 100% (2/2)
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos:  50% (1/2)
+Escribiendo objetos: 100% (2/2)
+Escribiendo objetos: 100% (2/2), 238 bytes | 238.00 KiB/s, listo.
 Total 2 (delta 1), reusado 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
 To github.com:pavalenc/pablovalenciano.git
    945aca9..8976e01  master -> master
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ python3 3_proceso,[K.py
@@ -918,11 +987,20 @@ hola soy 4743, vuelta: 99, contador: 99
  create mode 100644 3_proceso.py
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
 Enumerando objetos: 3, listo.
-Contando objetos:  33% (1/3)Contando objetos:  66% (2/3)Contando objetos: 100% (3/3)Contando objetos: 100% (3/3), listo.
-Comprimiendo objetos:  50% (1/2)Comprimiendo objetos: 100% (2/2)Comprimiendo objetos: 100% (2/2), listo.
-Escribiendo objetos:  50% (1/2)Escribiendo objetos: 100% (2/2)Escribiendo objetos: 100% (2/2), 241 bytes | 241.00 KiB/s, listo.
+Contando objetos:  33% (1/3)
+Contando objetos:  66% (2/3)
+Contando objetos: 100% (3/3)
+Contando objetos: 100% (3/3), listo.
+Comprimiendo objetos:  50% (1/2)
+Comprimiendo objetos: 100% (2/2)
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos:  50% (1/2)
+Escribiendo objetos: 100% (2/2)
+Escribiendo objetos: 100% (2/2), 241 bytes | 241.00 KiB/s, listo.
 Total 2 (delta 1), reusado 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
 To github.com:pavalenc/pablovalenciano.git
    8976e01..a57fe62  master -> master
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ python3 4_proceso.py
@@ -1737,11 +1815,20 @@ fin
  create mode 100644 4_proceso.py
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ git push origin master
 Enumerando objetos: 3, listo.
-Contando objetos:  33% (1/3)Contando objetos:  66% (2/3)Contando objetos: 100% (3/3)Contando objetos: 100% (3/3), listo.
-Comprimiendo objetos:  50% (1/2)Comprimiendo objetos: 100% (2/2)Comprimiendo objetos: 100% (2/2), listo.
-Escribiendo objetos:  50% (1/2)Escribiendo objetos: 100% (2/2)Escribiendo objetos: 100% (2/2), 215 bytes | 215.00 KiB/s, listo.
+Contando objetos:  33% (1/3)
+Contando objetos:  66% (2/3)
+Contando objetos: 100% (3/3)
+Contando objetos: 100% (3/3), listo.
+Comprimiendo objetos:  50% (1/2)
+Comprimiendo objetos: 100% (2/2)
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos:  50% (1/2)
+Escribiendo objetos: 100% (2/2)
+Escribiendo objetos: 100% (2/2), 215 bytes | 215.00 KiB/s, listo.
 Total 2 (delta 1), reusado 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: Resolving deltas:   0% (0/1)[K
+remote: Resolving deltas: 100% (1/1)[K
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
 To github.com:pavalenc/pablovalenciano.git
    a57fe62..0e3f751  master -> master
 ]0;pavalenc@pavalenc-VirtualBox: ~/Descargas[01;32mpavalenc@pavalenc-VirtualBox[00m:[01;34m~/Descargas[00m$ exit
